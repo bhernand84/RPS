@@ -8,9 +8,13 @@ namespace RPS.Models
 {
     public static class MoveHelpers
     {
-        public static bool GreaterThan(this Move move, Move otherMove)
+        public static bool? GreaterThan(this Move move, Move otherMove)
         {
-            if(move == 0 && ((int)otherMove == (Enum.GetNames(typeof(Move)).Length - 1))){
+            if (move == Move.None || otherMove == Move.None)
+            {
+                return null;
+            }   
+            if(move == 0 && ((int)otherMove == (Enum.GetNames(typeof(Move)).Length -2 ))){
                 return true;
             }
             return move > otherMove;

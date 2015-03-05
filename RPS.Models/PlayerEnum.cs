@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace RPS.Models
 {
-    public enum Move
+    public enum PlayerEnum
     {
-        None = -1,
-        Rock = 0,
-        Paper,
-        Scissors
+        PlayerOne,
+        PlayerTwo
     }
 }
