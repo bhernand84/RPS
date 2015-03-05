@@ -11,12 +11,22 @@ namespace Tests
         [Test]
         public void RockBeatsScissors()
         {
-            Assert.True(Move.Rock < Move.Paper);
+            Assert.True(Move.Rock.GreaterThan(Move.Scissors));
         }
         [Test]
         public void PaperBeatsRock()
         {
-            Assert.True(Move.Paper > Move.Rock);
+            Assert.True(Move.Paper.GreaterThan(Move.Rock));
+        }
+        [Test]
+        public void ScissorsBeatsPaper()
+        {
+            Assert.True(Move.Scissors.GreaterThan(Move.Paper));
+        }
+        [Test]
+        public void RockDoesNotBeatRock()
+        {
+            Assert.False(Move.Rock.GreaterThan(Move.Rock));
         }
     }
 }       
