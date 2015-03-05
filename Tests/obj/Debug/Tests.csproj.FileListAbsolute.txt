@@ -1,0 +1,10 @@
+C:\Projects\RPS\Tests\bin\Debug\Tests.dll
+C:\Projects\RPS\Tests\bin\Debug\Tests.pdb
+C:\Projects\RPS\Tests\bin\Debug\nunit.framework.dll
+C:\Projects\RPS\Tests\bin\Debug\nunit.framework.xml
+C:\Projects\RPS\Tests\obj\Debug\Tests.dll
+C:\Projects\RPS\Tests\obj\Debug\Tests.pdb
+C:\Projects\RPS\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\RPS\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Projects\RPS\Tests\bin\Debug\RPS.Models.dll
+C:\Projects\RPS\Tests\bin\Debug\RPS.Models.pdb

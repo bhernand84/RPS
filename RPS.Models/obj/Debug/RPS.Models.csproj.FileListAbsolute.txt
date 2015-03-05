@@ -1,0 +1,5 @@
+C:\Projects\RPS\RPS.Models\bin\Debug\RPS.Models.dll
+C:\Projects\RPS\RPS.Models\bin\Debug\RPS.Models.pdb
+C:\Projects\RPS\RPS.Models\obj\Debug\RPS.Models.csprojResolveAssemblyReference.cache
+C:\Projects\RPS\RPS.Models\obj\Debug\RPS.Models.dll
+C:\Projects\RPS\RPS.Models\obj\Debug\RPS.Models.pdb

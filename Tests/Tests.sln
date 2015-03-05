@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests.csproj", "{C2D24050-2B8B-48CF-9379-FA61E0178D12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS.Models", "..\RPS.Models\RPS.Models.csproj", "{C01AA566-CDFF-4AC3-8128-150E28D68ED1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D24050-2B8B-48CF-9379-FA61E0178D12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D24050-2B8B-48CF-9379-FA61E0178D12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D24050-2B8B-48CF-9379-FA61E0178D12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D24050-2B8B-48CF-9379-FA61E0178D12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01AA566-CDFF-4AC3-8128-150E28D68ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01AA566-CDFF-4AC3-8128-150E28D68ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01AA566-CDFF-4AC3-8128-150E28D68ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01AA566-CDFF-4AC3-8128-150E28D68ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
